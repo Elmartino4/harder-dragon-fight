@@ -4,9 +4,13 @@
   "package": "github.elmartino4.dragonfight.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "DragonFightMixin",
+    "DragonFireballEntityMixin",
+    "EnderDragonEntityMixin",
+    "EndermiteEntityMixin",
+    "EndSpikeFeatureMixin"
   ],
   "client": [
-
   ],
   "injectors": {
     "defaultRequire": 1

@@ -2,11 +2,10 @@
 A mod to make the dragon fight more difficult, with various config settings.
 
 ## Changes/Features
-* Increases the health of the dragon (default 400)
-* Increases the damage that it deals (default --)
-* Dragon's breath causes an explosion on landing
-* The dragon flies faster
-* Endermites carrying endcrystals spawn at the exit portal during the fight
-* Dragon's breath gives levitation
-* The dragon attempts to attack more often
-* Shulkers Guard the end towers
+* Increases the health of the dragon (default 350) :green_circle:
+* After charging, and hitting a player it gets levitation 8 for a sixth of a second :green_circle:
+* Dragon's breath causes an explosion on landing :green_circle:
+* The dragon flies faster :green_circle:
+* Endermites carrying endcrystals spawn at the exit portal during the fight :green_circle:
+* Dragon's breath gives levitation :green_circle:
+* Shulkers Guard the end towers :green_circle:
