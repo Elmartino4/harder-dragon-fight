@@ -42,6 +42,7 @@ public abstract class EndermiteEntityMixin extends LivingEntity implements Ender
     public void setExplosive(){
         explosive = true;
         EndCrystalEntity crystal = new EndCrystalEntity(EntityType.END_CRYSTAL, world);
+        crystal.setShowBottom(false);
         crystal.startRiding((Entity)(Object)this, true);
     }
 }
