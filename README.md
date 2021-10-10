@@ -9,3 +9,4 @@ A mod to make the dragon fight more difficult, with various config settings.
 * Endermites carrying endcrystals spawn at the exit portal during the fight :green_circle:
 * Dragon's breath gives levitation :green_circle:
 * Shulkers Guard the end towers :green_circle:
+* The dragon is healed when an end crystal explodes
